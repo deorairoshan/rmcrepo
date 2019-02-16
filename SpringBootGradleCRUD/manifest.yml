@@ -1,0 +1,8 @@
+---
+applications:
+- name: SpringBootGradleCRUD
+  path: build\libs\SpringBootGradleCRUD-0.0.1-SNAPSHOT.war
+  domain: cfapps.io
+  memory: 1024m
+  instances: 1
+    
